@@ -1,29 +1,29 @@
-# Clash Royale Deck Analyzer
+# Clash Royale Deck Analyzer  
 
-## Overview
+## Overview  
+**Clash Royale Deck Analyzer** is a Python-based application designed to help players analyze and optimize their Clash Royale decks. The app provides in-depth insights into deck performance, archetypes, and key statistics to enhance strategy and improve gameplay. Players can input their decks through a graphical interface, by pasting a deck link, or by manually entering card names.  
 
-Clash Royale Deck Analyzer is a python based application designed to help players analyze their decks in **Clash Royale**. The app provides insights into deck performance, archetypes, and key stats to optimize strategy and improve gameplay. Players can input their decks using a graphical interface, deck links, or by manually typing in cards.
+Originally developed during **HackSheffield 10**, the project received the **People’s Choice Award**, achieving the highest number of community votes. This repository contains a refined and improved version of the original hackathon-winning submission.  
 
-## Key Features
+---
 
-- **Deck Input Methods**: Users can input their decks by either using a graphical deck builder, pasting a deck link, or typing in card names manually.
-  
-- **Deck Analysis**: Once a deck is inputted, the app provides a detailed analysis, showing important stats like the 4-card cycle, average elixir cost, and deck archetype. The analysis is backed by data from the top 100 players in the game.
-  
-- **Visualized Insights**: The app presents the analysis in visually appealing graphs and pie charts, helping users understand their deck's strengths and weaknesses.
-  
-- **Strategic Recommendations**: Based on the deck analysis, users receive suggestions on the best strategies to maximize their chances of winning.
+## Key Features  
+- **Flexible Deck Input:** Input decks via a graphical builder, deck link, or manual card entry.  
+- **Comprehensive Deck Analysis:** View detailed stats such as 4-card cycle, average elixir cost, and deck archetype — powered by data from the top 100 global players.  
+- **Visualized Insights:** Interactive charts and pie graphs help visualize your deck’s strengths, weaknesses, and playstyle balance.  
+- **Strategic Recommendations:** Get actionable suggestions to refine your deck and maximize win potential.  
 
-## Info for End Users
+---
 
-### Demo Video
+## Info for End Users  
 
-Watch the demo video showcasing the project here: [YouTube Showcase](https://youtu.be/4VCsr4iWfVc)
+### Demo Video  
+🎥 Watch the full project showcase on [YouTube](#).  
 
-## Requirements
+---
 
-- Python 3.7 or higher (for backend)
-- Dependencies are listed in `requirements.txt`. To install the necessary packages, run:
-
+## Requirements  
+- **Python 3.7 or higher**  
+- Install dependencies using:  
   ```bash
   pip install -r requirements.txt
