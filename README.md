@@ -4,21 +4,15 @@
 
 Originally developed during **HackSheffield 10**, the project received the **People’s Choice Award**, earning the highest number of community votes. This repository contains a cleaned-up version of the original hackathon-winning submission.
 
----
-
 ## Features
 - **Deck Input Options**: Input decks using a graphical builder, paste a deck link, or manually type card names.  
 - **Detailed Analysis**: Displays stats such as 4-card cycle, average elixir cost, and deck archetype, powered by data from the top 100 global players.  
 - **Visual Insights**: Generates pie charts and graphs to highlight deck strengths and weaknesses.  
 - **Strategic Suggestions**: Offers tailored recommendations to help optimize deck performance.  
 
----
-
 ## Requirements
 - **Python 3.7 or higher**  
 - **Dependencies**: Listed in `requirements.txt`  
-
----
 
 ## Setup
 
@@ -37,12 +31,5 @@ Originally developed during **HackSheffield 10**, the project received the **Peo
     python main.py
     ```
 
----
-
 ## Demo Video
-🎥 Watch the project showcase on [YouTube](#).
-
----
-
-## Acknowledgment
-Developed at **HackSheffield 10**, where it received the **People’s Choice Award** for its innovation and community impact.
+🎥 Watch the project showcase on  [YouTube](https://youtu.be/4VCsr4iWfVc).
